@@ -1,0 +1,5 @@
+# Ignore JSON keys
+*.json
+
+# Ignore specific files
+config/secret_key.json
